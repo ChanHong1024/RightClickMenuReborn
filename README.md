@@ -2,8 +2,7 @@
 
 ## Introduction
 Right Click Menu Reborn is a .NET 8 application that brings back the Windows 10 right-click menu in Windows 11.
-![Image](/Images/RightClickMenuReborn.png)]
-![Image](/Images/RightClickMenuSample.png)]
+![Image](/Images/RightClickMenuReborn.png)]![Image](/Images/RightClickMenuSample.png)]
 ## Features
 - Enable Windows 10-like right-click menus in Windows 11.
 ## Installation
